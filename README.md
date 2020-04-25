@@ -3,9 +3,9 @@ PYMAILER Script
 Mailer script for gmail account.
 
 Additional features:
-    Send HTML content
-    Send images as attachments
-    Send any file as attachments
+ - Send HTML content
+ - Send images as attachments
+ - Send any file as attachments
 
 Every list of arguments is indicated as a comma separated list
 
